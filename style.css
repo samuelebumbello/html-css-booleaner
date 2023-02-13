@@ -30,6 +30,10 @@ h1{
   color: rgb(41, 201, 201);
 }
 /* MAIN */
+.p-piccolo{
+  font-size: 12px
+}
+
 .p-giallo1{
   background-color: yellow;
 }
@@ -87,3 +91,26 @@ text-align: center;
 }
 
 /* FOOTER */
+.ultimo-p{
+ color: gray;
+}
+
+.monitor1{
+  margin: 0%;
+  background-image: url(img/monitor.jpg);
+  background-repeat: no-repeat;
+  color: white;
+  font-size: 30px;
+  height: 200px;
+}
+
+.monitor2{
+  margin: 0%;
+  background-image: url(img/graph.jpg);
+  background-repeat: no-repeat;
+  color: white;
+  font-size: 30px;
+  height: 200px;
+
+  
+}
