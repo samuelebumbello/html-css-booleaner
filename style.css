@@ -27,8 +27,18 @@ h1{
 }
 
 .boolean-data{
-  color: aqua;
+  color: rgb(41, 201, 201);
+}
+/* MAIN */
+.p-giallo{
+  background-color: yellow;
+}
+/** TABELLA */
+.thead{
+background-color: rgb(90, 170, 250);
+
 }
 
-
-
+.trhead{
+  color: white;
+}
