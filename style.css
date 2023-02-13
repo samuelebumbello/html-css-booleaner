@@ -30,15 +30,60 @@ h1{
   color: rgb(41, 201, 201);
 }
 /* MAIN */
-.p-giallo{
+.p-giallo1{
   background-color: yellow;
 }
+
 /** TABELLA */
-.thead{
+table{
+border-collapse: collapse;
+}
+
+.testa-table{
 background-color: rgb(90, 170, 250);
-
+color: white;
 }
 
-.trhead{
-  color: white;
+/* THEAD TABELLA */
+.th-head1{
+ width: 300px;
 }
+
+.th-head2{
+  text-align: left;
+}
+
+/* PRIMO TBODY TABELLA */
+.primo-tbody{
+  background-color: rgb(187, 241, 241);
+}
+.testo-centrato{
+  text-align: center;
+}
+
+.tdbody1{
+  width: 750px;
+  text-align: left;
+}
+
+/* SECONDO TBODY TABELLA */
+.secondo-tbody{
+text-align: center;
+}
+.tdbody2{
+  text-align: left;
+}
+/* TERZO TBODY TABELLA */
+.terzo-tbody{
+background-color: rgb(187, 241, 241);
+text-align: center;
+}
+.tdbody3{
+  text-align: left;
+}
+/* SECONDO PARAGRAFO */
+.p-giallo2{
+  background-color: yellow;
+}
+
+/* FOOTER */
